@@ -1,0 +1,13 @@
+/* style.css */
+body {
+    color: aliceblue;
+    background-color: #2c2c30;
+}
+
+.main {
+    width: 900px;
+    height: auto;
+}
+li {
+    color: red;
+}
